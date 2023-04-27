@@ -1,2 +1,3 @@
 Developed by interns
-Adding a new line to check git fetch and git pull
+Adding a new line to check git fetch
+Adding a line for git pull
